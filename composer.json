@@ -1,0 +1,15 @@
+{
+    "name": "ceffas/http-request-handlers",
+    "autoload": {
+        "psr-4": {
+            "Ceffas\\HttpRequestHandlers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prime7",
+            "email": "prime7@gmail.com"
+        }
+    ],
+    "require": {}
+}
