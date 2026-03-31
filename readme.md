@@ -1,4 +1,4 @@
-![emblem](emblemPhpPackege.svg)
+![emblem](smallemblemphp.svg)
 
 # Http Request Handlers
 
